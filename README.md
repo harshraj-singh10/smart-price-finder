@@ -81,5 +81,5 @@ Future improvements may include:
 This project is licensed under the MIT License — see the LICENSE file for details.
 
 📌 About
-Smart Price Finder is a student-built Product Comparison Tool project meant to demonstrate integration of Python and JavaScript to solve real-world problems like price tracking and comparison for e-commerce.
+Smart Price Finder is a student-built Product Comparison Tool project meant to demonstrate integration of Python and JavaScript to solve real-world problems like price tracking and comparison for e-commerce.   
 
